@@ -1,0 +1,106 @@
+CityA,CityB,Distance
+New York NY,Los Angeles CA,2800
+New York NY,Chicago IL,790
+New York NY,Houston TX,1627
+New York NY,Phoenix AZ,2400
+New York NY,Philadelphia PA,95
+New York NY,San Antonio TX,1800
+New York NY,San Diego CA,2800
+New York NY,Dallas TX,1550
+New York NY,San Jose CA,2900
+New York NY,Austin TX,1700
+New York NY,Jacksonville FL,1100
+New York NY,Fort Worth TX,1600
+New York NY,Columbus OH,500
+New York NY,Charlotte NC,640
+Los Angeles CA,Chicago IL,2015
+Los Angeles CA,Houston TX,1540
+Los Angeles CA,Phoenix AZ,370
+Los Angeles CA,Philadelphia PA,2700
+Los Angeles CA,San Antonio TX,1370
+Los Angeles CA,San Diego CA,120
+Los Angeles CA,Dallas TX,1435
+Los Angeles CA,San Jose CA,340
+Los Angeles CA,Austin TX,1370
+Los Angeles CA,Jacksonville FL,2700
+Los Angeles CA,Fort Worth TX,1440
+Los Angeles CA,Columbus OH,2000
+Los Angeles CA,Charlotte NC,2450
+Chicago IL,Houston TX,1080
+Chicago IL,Phoenix AZ,1750
+Chicago IL,Philadelphia PA,760
+Chicago IL,San Antonio TX,1080
+Chicago IL,San Diego CA,2050
+Chicago IL,Dallas TX,960
+Chicago IL,San Jose CA,2100
+Chicago IL,Austin TX,980
+Chicago IL,Jacksonville FL,940
+Chicago IL,Fort Worth TX,970
+Chicago IL,Columbus OH,170
+Chicago IL,Charlotte NC,540
+Houston TX,Phoenix AZ,1175
+Houston TX,Philadelphia PA,1550
+Houston TX,San Antonio TX,200
+Houston TX,San Diego CA,1370
+Houston TX,Dallas TX,240
+Houston TX,San Jose CA,1540
+Houston TX,Austin TX,160
+Houston TX,Jacksonville FL,800
+Houston TX,Fort Worth TX,250
+Houston TX,Columbus OH,1000
+Houston TX,Charlotte NC,1050
+Phoenix AZ,Philadelphia PA,2300
+Phoenix AZ,San Antonio TX,980
+Phoenix AZ,San Diego CA,355
+Phoenix AZ,Dallas TX,1060
+Phoenix AZ,San Jose CA,750
+Phoenix AZ,Austin TX,980
+Phoenix AZ,Jacksonville FL,2200
+Phoenix AZ,Fort Worth TX,1050
+Phoenix AZ,Columbus OH,1700
+Phoenix AZ,Charlotte NC,1850
+Philadelphia PA,San Antonio TX,1500
+Philadelphia PA,San Diego CA,2700
+Philadelphia PA,Dallas TX,1350
+Philadelphia PA,San Jose CA,2900
+Philadelphia PA,Austin TX,1500
+Philadelphia PA,Jacksonville FL,850
+Philadelphia PA,Fort Worth TX,1400
+Philadelphia PA,Columbus OH,350
+Philadelphia PA,Charlotte NC,500
+San Antonio TX,San Diego CA,1300
+San Antonio TX,Dallas TX,275
+San Antonio TX,San Jose CA,1350
+San Antonio TX,Austin TX,80
+San Antonio TX,Jacksonville FL,1200
+San Antonio TX,Fort Worth TX,280
+San Antonio TX,Columbus OH,1200
+San Antonio TX,Charlotte NC,1350
+San Diego CA,Dallas TX,1430
+San Diego CA,San Jose CA,460
+San Diego CA,Austin TX,1400
+San Diego CA,Jacksonville FL,2750
+San Diego CA,Fort Worth TX,1440
+San Diego CA,Columbus OH,2200
+San Diego CA,Charlotte NC,2450
+Dallas TX,San Jose CA,1470
+Dallas TX,Austin TX,195
+Dallas TX,Jacksonville FL,1300
+Dallas TX,Fort Worth TX,30
+Dallas TX,Columbus OH,950
+Dallas TX,Charlotte NC,1100
+San Jose CA,Austin TX,1600
+San Jose CA,Jacksonville FL,2800
+San Jose CA,Fort Worth TX,1550
+San Jose CA,Columbus OH,2000
+San Jose CA,Charlotte NC,2450
+Austin TX,Jacksonville FL,1200
+Austin TX,Fort Worth TX,200
+Austin TX,Columbus OH,1050
+Austin TX,Charlotte NC,1150
+Jacksonville FL,Fort Worth TX,980
+Jacksonville FL,Columbus OH,750
+Jacksonville FL,Charlotte NC,360
+Fort Worth TX,Columbus OH,1000
+Fort Worth TX,Charlotte NC,1050
+Columbus OH,Charlotte NC,250
